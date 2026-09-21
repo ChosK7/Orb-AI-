@@ -1,0 +1,6 @@
+{
+  "name": "Orbi AI",
+  "description": "Orbi AI — Sua vida, em equilíbrio inteligente. Assistente pessoal integrado que conecta tempo, tarefas, finanças e hábitos em um único lugar.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
